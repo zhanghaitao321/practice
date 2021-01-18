@@ -1,2 +1,0 @@
-# practice
-the first project
